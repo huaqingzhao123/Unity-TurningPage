@@ -619,7 +619,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 195edcbe08c55304a9b21f6ae24fc196, type: 3}
   - {fileID: 21300000, guid: 9a789b41742c55548b3a843af210fde2, type: 3}
   - {fileID: 21300000, guid: 1ffdf101e1d8d5f41a0e49eb06224358, type: 3}
-  turningTime: 2
+  turningTime: 1
 --- !u!1 &308036880
 GameObject:
   m_ObjectHideFlags: 0
